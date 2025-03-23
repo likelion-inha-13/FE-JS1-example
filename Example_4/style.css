@@ -1,0 +1,20 @@
+#box{
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+.border-red{
+    border: 10px solid red;
+}
+
+.txt-pink{
+    color:pink;
+}
+
+.txt-red{
+    color:red;
+}
+
+.border-black{
+    border: 10px solid black;
+}

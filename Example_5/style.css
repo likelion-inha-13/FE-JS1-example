@@ -1,0 +1,13 @@
+.box{
+    padding: 10px;
+    margin-top: 30px;
+    background-color: rgb(114, 178, 238);
+}
+
+.box-over{
+    padding: 10px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(31, 31, 31);
+}
+
